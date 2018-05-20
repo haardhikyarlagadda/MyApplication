@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);//comment master
 
 //new comment ramu
+//new comment remu2
     }
 }
